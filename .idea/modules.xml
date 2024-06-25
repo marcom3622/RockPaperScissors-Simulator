@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RPSSimulator.iml" filepath="$PROJECT_DIR$/.idea/modules/RPSSimulator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RPSSimulator-build.iml" filepath="$PROJECT_DIR$/.idea/modules/RPSSimulator-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFXScalaApp.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFXScalaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaFXScalaApp-build.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaFXScalaApp-build.iml" />
     </modules>
   </component>
 </project>

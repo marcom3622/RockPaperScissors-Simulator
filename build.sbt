@@ -6,3 +6,13 @@ lazy val root = (project in file("."))
   .settings(
     name := "RPSSimulator"
   )
+
+name := "JavaFXScalaApp"
+
+version := "0.1"
+
+// Add library dependencies for JavaFX, specific to your OS
+libraryDependencies ++= Seq(
+  "org.openjfx" % "javafx-controls" % "22.0.1" classifier "win",
+  "org.openjfx" % "javafx-fxml" % "22.0.1" classifier "win"
+)
