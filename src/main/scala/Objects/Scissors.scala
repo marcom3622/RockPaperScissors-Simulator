@@ -1,0 +1,5 @@
+package Objects
+
+class Scissors {
+
+}

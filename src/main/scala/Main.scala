@@ -13,6 +13,7 @@ object Main {
 class JavaFXApp extends Application {
   override def start(primaryStage: Stage): Unit = {
     val controller = new Controller(new View, new Model)
+    controller.setStage(primaryStage);
     controller.start()
     primaryStage.setTitle("Rock Paper Scissors Simulator")
     primaryStage.setScene(controller.getScene)
